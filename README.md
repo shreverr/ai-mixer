@@ -26,3 +26,7 @@ Works on my machine. Filed under "future us problem".
 ## Server Mood
 
 Currently vibing at 3% CPU, 97% existential dread.
+
+## Final Word
+
+If it compiles, ship it. If it doesn't, ship it anyway.
