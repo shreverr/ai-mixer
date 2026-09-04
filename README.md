@@ -18,3 +18,7 @@ Ship it, then go touch grass.
 ## Coffee Status
 
 Brew level critical. Deploy blocked until refill.
+
+## Bug Report
+
+Works on my machine. Filed under "future us problem".
