@@ -44,3 +44,7 @@ Allowed. Discouraged. Legendary if it works.
 ## Rubber Duck Log
 
 Explained bug to duck. Duck said nothing. Bug fixed itself out of shame.
+
+## Version Number Philosophy
+
+We don't skip versions, we skip explanations.
