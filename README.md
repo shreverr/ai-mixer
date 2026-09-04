@@ -22,3 +22,7 @@ Brew level critical. Deploy blocked until refill.
 ## Bug Report
 
 Works on my machine. Filed under "future us problem".
+
+## Server Mood
+
+Currently vibing at 3% CPU, 97% existential dread.
