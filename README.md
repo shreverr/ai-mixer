@@ -40,3 +40,7 @@ Git waits, silent, smug.
 ## Deploy Friday Policy
 
 Allowed. Discouraged. Legendary if it works.
+
+## Rubber Duck Log
+
+Explained bug to duck. Duck said nothing. Bug fixed itself out of shame.
