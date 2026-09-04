@@ -30,3 +30,9 @@ Currently vibing at 3% CPU, 97% existential dread.
 ## Final Word
 
 If it compiles, ship it. If it doesn't, ship it anyway.
+
+## Merge Conflict Haiku
+
+Two branches diverge
+Same line, different intent
+Git waits, silent, smug.
