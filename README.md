@@ -36,3 +36,7 @@ If it compiles, ship it. If it doesn't, ship it anyway.
 Two branches diverge
 Same line, different intent
 Git waits, silent, smug.
+
+## Deploy Friday Policy
+
+Allowed. Discouraged. Legendary if it works.
